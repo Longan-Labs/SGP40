@@ -113,7 +113,7 @@ In sum, the Grove - VOC Gas Sensor (SGP40) is a compact, powerful, and easy-to-i
 
 - **Step 5.** Open the **Serial Monitor** of Arduino IDE by click **Tool-> Serial Monitor**. Or tap the ++ctrl+shift+m++ key at the same time. if every thing goes well, you will get the result.
 
-
+![](https://raw.githubusercontent.com/Longan-Labs/SGP40/main/images/result.png)
 
 ## Schematic Online Viewer
 

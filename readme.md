@@ -115,13 +115,13 @@ In sum, the Grove - VOC Gas Sensor (SGP40) is a compact, powerful, and easy-to-i
 
 ## Schematic Online Viewer
 
-<div className="altium-ecad-viewer" data-project-src="https://github.com/Longan-Labs/SGP41_RESOURCES/raw/main/AIR_QUALITY_SENSOR(SGP41).zip" style={{borderRadius: '0px 0px 4px 4px', height: 500, borderStyle: 'solid', borderWidth: 1, borderColor: 'rgb(241, 241, 241)', overflow: 'hidden', maxWidth: 1280, maxHeight: 700, boxSizing: 'border-box'}}>
+<div className="altium-ecad-viewer" data-project-src="https://github.com/Longan-Labs/SGP40/raw/main/Grove%20-%20VOC%20Gas%20Sensor%20(SGP40).zip" style={{borderRadius: '0px 0px 4px 4px', height: 500, borderStyle: 'solid', borderWidth: 1, borderColor: 'rgb(241, 241, 241)', overflow: 'hidden', maxWidth: 1280, maxHeight: 700, boxSizing: 'border-box'}}>
 </div>
 
 ## Resources
 
-- **[Zip]** [Grove - Smart Air Quality Sensor (SGP41)](https://github.com/Longan-Labs/SGP41_RESOURCES/raw/main/AIR_QUALITY_SENSOR(SGP41).zip)
-- **[PDF]** [SGP41 Datasheet](https://files.seeedstudio.com/wiki/Grove-VOC_and_eCO2_Gas_Sensor-SGP30/res/Sensirion_Gas_Sensors_SGP30_Datasheet_EN.pdf)
+- **[Zip]** [Grove - Smart Air Quality Sensor (SGP41)](https://github.com/Longan-Labs/SGP40/raw/main/Grove%20-%20VOC%20Gas%20Sensor%20(SGP40).zip)
+- **[PDF]** [SGP40 Datasheet](https://github.com/Longan-Labs/SGP40/blob/main/Sensirion_Gas_Sensors_Datasheet_SGP40-3135293.pdf)
 
 ## Tech Support
 If you have any technical issue.  submit the issue into our [forum](https://forum.seeedstudio.com/).

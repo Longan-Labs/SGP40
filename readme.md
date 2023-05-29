@@ -103,15 +103,17 @@ In sum, the Grove - VOC Gas Sensor (SGP40) is a compact, powerful, and easy-to-i
 
 #### Software
 
-- **Step 1.** Download the [D7S library](https://github.com/Longan-Labs/arduino-i2c-sgp41) from Github.
+- **Step 1.** Download the [SGP40 Arduino Library](https://github.com/Longan-Labs/arduino-i2c-sgp40) from Github.
 
 - **Step 2.** Refer to [How to install library](https://wiki.seeedstudio.com/How_to_install_Arduino_Library) to install library for Arduino.
 
-- **Step 3.** After downloading and installing the library correctly, you can find an example program named exampleUsage.ino in the examples folder. This program is designed for the SGP41 sensor.
+- **Step 3.** After downloading and installing the library correctly, you can find an example program named exampleUsage.ino in the examples folder. This program is designed for the SGP40 sensor.
 
 - **Step 4.** Upload the demo. If you do not know how to upload the code, please check [How to upload code](https://wiki.seeedstudio.com/Upload_Code/).
 
 - **Step 5.** Open the **Serial Monitor** of Arduino IDE by click **Tool-> Serial Monitor**. Or tap the ++ctrl+shift+m++ key at the same time. if every thing goes well, you will get the result.
+
+
 
 ## Schematic Online Viewer
 
@@ -120,8 +122,9 @@ In sum, the Grove - VOC Gas Sensor (SGP40) is a compact, powerful, and easy-to-i
 
 ## Resources
 
-- **[Zip]** [Grove - Smart Air Quality Sensor (SGP41)](https://github.com/Longan-Labs/SGP40/raw/main/Grove%20-%20VOC%20Gas%20Sensor%20(SGP40).zip)
+- **[ZIP]** [Grove - VOC Gas Sensor (SGP40)](https://github.com/Longan-Labs/SGP40/raw/main/Grove%20-%20VOC%20Gas%20Sensor%20(SGP40).zip)
 - **[PDF]** [SGP40 Datasheet](https://github.com/Longan-Labs/SGP40/blob/main/Sensirion_Gas_Sensors_Datasheet_SGP40-3135293.pdf)
+- **[GITHUB]** [Arduino Library for SGP40](https://github.com/Longan-Labs/arduino-i2c-sgp40)
 
 ## Tech Support
 If you have any technical issue.  submit the issue into our [forum](https://forum.seeedstudio.com/).
